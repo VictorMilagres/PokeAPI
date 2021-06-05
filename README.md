@@ -6,7 +6,7 @@ Esse é um projeto de Frontend Web feito utilizando ReactJS, HTML e CSS;
 e com o gerenciador de pacotes do NodeJS o npm.
 
 ## Sobre
-Esse foi um dos primeiros projetos que fiz em React.
+Esse é um projeto que fiz em React.
 Ele consiste em uma página que lembra uma Pokedex do desenho Pokemon. 
 Permite o usuário adicionar e remover pokemons da sua pokedex, ver o poder de cada pokemon
 através do gráfico e simular uma batalha simples.
