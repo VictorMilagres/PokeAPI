@@ -19,6 +19,14 @@ rodar:
 1. `npm install` para instalar todas as dependências;
 2. `npm run start` para rodar localmente o projeto
 
+## Tecnologias utilizadas:
+- React
+- Axios
+- React-Router-Dom
+- Material-UI
+- Hooks
+- Styled-Components
+
 ### Visite: [Pokedex](pokedex-number1.surge.sh)
 
 ### Imagens
