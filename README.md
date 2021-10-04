@@ -27,7 +27,7 @@ rodar:
 - Hooks
 - Styled-Components
 
-### Visite: (pokedex-number1.surge.sh)
+### Visite: pokedex-number1.surge.sh
 
 ### Imagens
 ![115927088-46657c00-a45a-11eb-8257-c39874111c00](https://user-images.githubusercontent.com/47368534/119565728-b11f1580-bd80-11eb-8930-eac80015c4d4.png)
